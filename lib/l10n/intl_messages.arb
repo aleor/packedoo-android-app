@@ -1,0 +1,2054 @@
+{
+  "@@last_modified": "2019-10-02T22:14:14.457853",
+  "packListAllItems": "Все варианты",
+  "@packListAllItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "call": "Позвонить",
+  "@call": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "apply": "Применить",
+  "@apply": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callSender": "Позвонить отправителю",
+  "@callSender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callRecipient": "Позвонить получателю",
+  "@callRecipient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callPersonToPickUpFrom": "Позвонить передающему",
+  "@callPersonToPickUpFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactSendMessage": "Отправить сообщение",
+  "@contactSendMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberNotProvided": "Номер телефона не задан",
+  "@phoneNumberNotProvided": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToPerformCall": "Не удалось осуществить вызов",
+  "@unableToPerformCall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToOpenWebAddress": "Не удалось открыть страницу",
+  "@unableToOpenWebAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealNotDefined": "Сделка не определена",
+  "@dealNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidUrl": "Некорректный URL адрес",
+  "@invalidUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filter": "Фильтр",
+  "@filter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectMoover": "Выбрать исполнителя",
+  "@selectMoover": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactPerson": "Связаться",
+  "@contactPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "decline": "Отклонить",
+  "@decline": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberHidden": "Номер телефона скрыт",
+  "@phoneNumberHidden": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutDelivery": "О доставке",
+  "@aboutDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "until": "До",
+  "@until": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "priceUpper": "ЦЕНА",
+  "@priceUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryUntilUpper": "ДОСТАВКА ДО",
+  "@deliveryUntilUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "parcel": "Посылка",
+  "@parcel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourParcel": "Ваша посылка",
+  "@yourParcel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "senderUpper": "ОТПРАВИТЕЛЬ",
+  "@senderUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpPersonUpper": "У КОГО ЗАБРАТЬ",
+  "@pickUpPersonUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recipientUpper": "ПОЛУЧАТЕЛЬ",
+  "@recipientUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeUpper": "МАРШРУТ",
+  "@routeUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "km": "км",
+  "@km": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAdditionalDescription": "Дополнительное описание отсутствует",
+  "@noAdditionalDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Зарегистрироваться",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "byContinueRegistration": "Продолжая, вы соглашаетесь с",
+  "@byContinueRegistration": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registrationPolicies": "условиями предоставления услуг и политикой конфиденциальности",
+  "@registrationPolicies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packedooService": "сервиса Packedoo",
+  "@packedooService": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFailed": "Ошибка входа",
+  "@loginFailed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleLoginFailed": "Не удалось войти с использованием учетной записи Google",
+  "@googleLoginFailed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Профиль",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Пароль",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logInUpper": "ВОЙТИ",
+  "@logInUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherLoginOptions": "Другие варианты входа",
+  "@otherLoginOptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enter": "Вход",
+  "@enter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAndPasswordRequired": "Пожалуйста, укажите ваш e-mail и пароль",
+  "@emailAndPasswordRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmailOrPassword": "Некорректный e-mail или пароль",
+  "@invalidEmailOrPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userDisabled": "Учетная запись пользователя отключена. Пожалуйста, свяжитесь со службой поддержки.",
+  "@userDisabled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Ошибка",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Далее",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Отмена",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPhoto": "Добавить фото",
+  "@addPhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePhoto": "Изменить фото",
+  "@changePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectFromGallery": "Выбрать из медиатеки",
+  "@selectFromGallery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeNewPhoto": "Сделать новое фото",
+  "@makeNewPhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noCameraPermissions": "Нет доступа к камере",
+  "@noCameraPermissions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraAccessRequired": "Приложению необходим доступ к камере",
+  "@cameraAccessRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toSettings": "Перейти в настройки",
+  "@toSettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noGalleryPermissions": "Нет доступа к медиатеке",
+  "@noGalleryPermissions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "galleryAccessRequired": "Приложению необходим доступ к медиатеке",
+  "@galleryAccessRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Имя",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "surname": "Фамилия",
+  "@surname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provideRealNameAndSurname": "Укажите настоящие имя и фамилию",
+  "@provideRealNameAndSurname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "missingData": "Нет данных",
+  "@missingData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameSurnameRequired": "Пожалуйста, заполните поля имени и фамилии",
+  "@nameSurnameRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "realPhoneNumberRequired": "Укажите действующий номер телефона, так как вам будет необходимо подтвердить его для доступа ко всем функциям Packedoo",
+  "@realPhoneNumberRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Телефон",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConfirmation": "Подтвердите пароль",
+  "@passwordConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provideEmailAndPhone": "Пожалуйста, заполните поля E-mail и Телефон",
+  "@provideEmailAndPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "providePasswordAndConfirmation": "Пожалуйста, введите пароль и подтверждение пароля",
+  "@providePasswordAndConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordShouldHaveAtLeast6": "Пароль должен содержать не менее 6 символов",
+  "@passwordShouldHaveAtLeast6": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordsMismatch": "Пароли не совпадают",
+  "@passwordsMismatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmail": "Некорректный формат e-mail адреса",
+  "@invalidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailTaken": "Пользователь с таким e-mail уже зарегистрирован",
+  "@emailTaken": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip": "Пропустить",
+  "@skip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreated": "Аккаунт успешно создан!",
+  "@accountCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreatedConfirmPhone": "Подтвердите телефон, чтобы получить доступ ко всем функциям Packedoo",
+  "@accountCreatedConfirmPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPhone": "Подтвердить телефон",
+  "@confirmPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning": "Внимание",
+  "@warning": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNotConfirmedLimitations": "Вам не будут доступны основные функции Packedoo без подтвержденного номера телефона",
+  "@phoneNotConfirmedLimitations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownPhoneNumber": "Номер неизвестен",
+  "@unknownPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberMissing": "Похоже, в вашем профиле не указан телефон.",
+  "@phoneNumberMissing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneConfirmationReason": "Подтвержденный номер телефона необходим, чтобы получить доступ ко всем функциям Packedoo",
+  "@phoneConfirmationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNumber": "Добавить номер",
+  "@addNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPhone": "Добавить телефон",
+  "@addPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNotDefined": "Номер не задан",
+  "@phoneNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberNotDefined": "Номер телефона не задан",
+  "@phoneNumberNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "Номер телефона",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "providePhoneNumber": "Пожалуйста, укажите ваш номер телефона",
+  "@providePhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "failedToAddPhone": "Не удалось добавить номер",
+  "@failedToAddPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPhoneToSendAndDeliver": "Подтвердите номер телефона, чтобы получить возможность отправлять и доставлять посылки",
+  "@confirmPhoneToSendAndDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "codeSentViaSMS": "На указанный номер отправлен СМС-код подтверждения",
+  "@codeSentViaSMS": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendCodeBySms": "Отправить код по SMS",
+  "@sendCodeBySms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendAgainPossibleAfter": "Повторная отправка кода возможна через",
+  "@sendAgainPossibleAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sec": "сек.",
+  "@sec": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCodeUpper": "ВВЕДИТЕ КОД",
+  "@enterCodeUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCodeFormat": "Неверный формат кода",
+  "@invalidCodeFormat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberConfirmed": "Номер подтвержден",
+  "@numberConfirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberConfirmedAccessGained": "Номер был успешно подтвержден. Теперь у вас есть доступ ко всем функциям Packedoo!",
+  "@numberConfirmedAccessGained": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCode": "Неверный код",
+  "@invalidCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToVerifyCodeTryAgainLater": "Не удалось проверить код, попробуйте повторить попытку позднее",
+  "@unableToVerifyCodeTryAgainLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToRequestCodeTryAgainLater": "Не удалось запросить код, попробуйте повторить попытку позднее",
+  "@unableToRequestCodeTryAgainLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages": "Сообщения",
+  "@messages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Настройки",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainUpper": "ОСНОВНЫЕ",
+  "@mainUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "additionalUpper": "ДОПОЛНИТЕЛЬНО",
+  "@additionalUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceTerms": "Условия пользования сервисом",
+  "@serviceTerms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "interfaceLang": "Язык интерфейса",
+  "@interfaceLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "О приложении",
+  "@aboutApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Выйти из учетной записи",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeDataViaWeb": "Изменение дополнительных данных профиля доступно через веб-сайт Packedoo",
+  "@changeDataViaWeb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameNotDefined": "Имя не задано",
+  "@nameNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Неизвестно",
+  "@unknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Дата",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distance": "Расстояние",
+  "@distance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePersonalDataWeb": "Изменить личные данные (Web)",
+  "@changePersonalDataWeb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "version": "Версия",
+  "@version": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packedooSlogan": "Packedoo - Доставка посылок по пути",
+  "@packedooSlogan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberChangedNotSaved": "Номер телефона изменен, в случае сохранения Вам необходимо будет подтвердить номер",
+  "@phoneNumberChangedNotSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberConfirmed": "Номер телефона подтвержден",
+  "@phoneNumberConfirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberNotConfirmedLimitations": "Номер телефона не подтвержден. Подтвержденный номер необходим, чтобы создавать посылки и откликаться на предложения.",
+  "@phoneNumberNotConfirmedLimitations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveNewNumber": "Сохранить новый номер",
+  "@saveNewNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmNumber": "Подтвердить номер",
+  "@confirmNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updated": "Обновлено",
+  "@updated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberSavedSuccessfully": "Номер телефона сохранен успешно",
+  "@phoneNumberSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSaveNumberTryLater": "Не удалось сохранить номер телефона, попробуйте повторить попытку позднее",
+  "@unableToSaveNumberTryLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canCreateOnlyWithConfirmedPhone": "Создание посылок доступно только пользователям с подтвержденным номером телефона.",
+  "@canCreateOnlyWithConfirmedPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPhoneNumber": "Подтвердить номер телефона",
+  "@confirmPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPhoneNumber": "Добавить номер телефона",
+  "@addPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createNew": "Создать посылку",
+  "@createNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "goodPhotoHint": "Наличие хорошего фото увеличит шансы получить предложение",
+  "@goodPhotoHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemPhoto": "Фото посылки",
+  "@itemPhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemCreated": "Посылка создана",
+  "@itemCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendDetailsUpper": "ДЕТАЛИ ОТПРАВЛЕНИЯ",
+  "@sendDetailsUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cost": "Стоимость",
+  "@cost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryUntil": "Доставка до",
+  "@deliveryUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemCreatedInPendingState": "Ваша посылка успешно создана и переведена в статус \"В ожидании предложений\".",
+  "@itemCreatedInPendingState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAnotherItem": "Создать еще одну посылку",
+  "@createAnotherItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toMyItems": "Перейти к моим посылкам",
+  "@toMyItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemSizeUpper": "РАЗМЕР ПОСЫЛКИ",
+  "@itemSizeUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "describeItem": "Опишите посылку",
+  "@describeItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemTitle": "Название посылки",
+  "@itemTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDescription": "Описание посылки",
+  "@itemDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDescriptionHint": "Здесь вы можете описать посылку и оставить пожелания по доставке. Подробное описание повысит ваши шансы получить предложение.",
+  "@itemDescriptionHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "small": "Маленький",
+  "@small": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "smallDescription": "Для бардачка",
+  "@smallDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medium": "Средний",
+  "@medium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mediumDescription": "Для переднего сиденья",
+  "@mediumDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "large": "Большой",
+  "@large": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "largeDescription": "Для заднего сиденья",
+  "@largeDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "veryLarge": "Очень большой",
+  "@veryLarge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "veryLargeDescription": "Описание посылки",
+  "@veryLargeDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "xxl": "Негабарит",
+  "@xxl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "xxlDescription": "Для грузового автомобиля",
+  "@xxlDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidTitle": "Некорректное название",
+  "@invalidTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleTooShort": "Название посылки должно содержать не менее 3 символов",
+  "@titleTooShort": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "price": "Цена",
+  "@price": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendedPrice": "Рекомендованная цена",
+  "@recommendedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourPrice": "Ваша цена",
+  "@yourPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packedooCommission": "Комиссия packedoo",
+  "@packedooCommission": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "total": "Итого",
+  "@total": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPrice": "Некорректная цена",
+  "@invalidPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseCheckPriceValue": "Пожалуйста, проверьте значение цены",
+  "@pleaseCheckPriceValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableCreateItem": "Не удалось создать посылку",
+  "@unableCreateItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactInfo": "Контактные данные",
+  "@contactInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameAndSurname": "Имя и фамилия",
+  "@nameAndSurname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Готово",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact": "Контакт",
+  "@contact": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseFillBothFields": "Пожалуйста, заполните оба поля",
+  "@pleaseFillBothFields": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpItemFrom": "Откуда забрать посылку",
+  "@pickUpItemFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliverItemTo": "Куда доставить посылку",
+  "@deliverItemTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLocation": "Мое местоположение",
+  "@myLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "originAddress": "Адрес отправки",
+  "@originAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destinationAddress": "Адрес доставки",
+  "@destinationAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "missingPermissions": "Нет разрешения",
+  "@missingPermissions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "geolocationAccessRequired": "Приложению нужен доступ к геолокации для определения вашего местоположения",
+  "@geolocationAccessRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocationUnknown": "Не удалось определить текущее местоположение",
+  "@currentLocationUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "originUpper": "ОТКУДА",
+  "@originUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destinationUpper": "КУДА",
+  "@destinationUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPointAddress": "Адрес места назначения",
+  "@deliveryPointAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "route": "Маршрут",
+  "@route": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToPickUpFromUpper": "ОТДАСТ ПОСЫЛКУ",
+  "@personToPickUpFromUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "meUpper": "Я",
+  "@meUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anotherPerson": "Другой человек",
+  "@anotherPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sender": "Отправитель",
+  "@sender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recipient": "Получатель",
+  "@recipient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToDeliverUpper": "ПОЛУЧИТ ПОСЫЛКУ",
+  "@personToDeliverUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "missingRoute": "Не задан маршрут",
+  "@missingRoute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectBothAddresses": "Пожалуйста, выберите адрес отправления и назначения",
+  "@pleaseSelectBothAddresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmed": "Подтверждено",
+  "@confirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickedUpItem": "Я забрал посылку",
+  "@pickedUpItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toBeDeliveredUntil": "Доставка до",
+  "@toBeDeliveredUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillDeliverUntil": "Доставите до",
+  "@youWillDeliverUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillDeliverUntilUpper": "ДОСТАВИТЕ ДО",
+  "@youWillDeliverUntilUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillGet": "Вы получите",
+  "@youWillGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cantMakeRequest": "Не удалось выполнить запрос",
+  "@cantMakeRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offeredPrice": "Предложенная цена",
+  "@offeredPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offeredDate": "Предложенная дата",
+  "@offeredDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerDeclinedBySender": "Ваше предложение отклонено отправителем.",
+  "@offerDeclinedBySender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerCancelled": "Вы отменили это предложение.",
+  "@offerCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "Отменено",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "declined": "Отклонено",
+  "@declined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pendingConfirmation": "Ожидает подтверждения",
+  "@pendingConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPendingConfirmationUpper": "ДОСТАВКА ОЖИДАЕТ ПОДТВЕРЖДЕНИЯ",
+  "@deliveryPendingConfirmationUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPendingConfirmationHint": "Ожидается подтверждение доставки отправителем. Автоматическое подтверждение произойдет через 24 часа.",
+  "@deliveryPendingConfirmationHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactSupport": "Служба поддержки",
+  "@contactSupport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inDelivery": "В процессе доставки",
+  "@inDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "didDeliver": "Я доставил посылку",
+  "@didDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivered": "Доставлено",
+  "@delivered": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourRateForSenderUpper": "ВАША ОЦЕНКА ДЛЯ ОТПРАВИТЕЛЯ",
+  "@yourRateForSenderUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourRateForDeliveryPersonUpper": "ВАША ОЦЕНКА ДЛЯ ИСПОЛНИТЕЛЯ",
+  "@yourRateForDeliveryPersonUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewFromSenderWillBeVisibleAfterCrossReviewHint": "Вы сможете увидеть отзыв, оставленный вам отправителем, после того как оставите свой отзыв",
+  "@reviewFromSenderWillBeVisibleAfterCrossReviewHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewFromDeliveryPersonWillBeVisibleAfterCrossReviewHint": "Вы сможете увидеть отзыв, оставленный вам исполнителем, после того как оставите свой отзыв",
+  "@reviewFromDeliveryPersonWillBeVisibleAfterCrossReviewHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "leaveReview": "Оставить отзыв",
+  "@leaveReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "leaveReviewLater": "Оставить отзыв позже",
+  "@leaveReviewLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "asDescribed": "Соответствует описанию",
+  "@asDescribed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "senderAvailability": "Доступность отправителя",
+  "@senderAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friendliness": "Дружелюбное отношение",
+  "@friendliness": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourReviewComments": "Ваш отзыв (по желанию)",
+  "@yourReviewComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noRatingGiven": "Нет оценки",
+  "@noRatingGiven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseAddRatingMark": "Пожалуйста, поставьте оценку",
+  "@pleaseAddRatingMark": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewAdded": "Отзыв добавлен",
+  "@reviewAdded": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thankYouForReview": "Спасибо за ваш отзыв!",
+  "@thankYouForReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemPickedUp": "Посылка принята",
+  "@itemPickedUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toDeliveriesList": "Вернуться к списку доставок",
+  "@toDeliveriesList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pendingDealStatus": "На рассмотрении",
+  "@pendingDealStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pendingLotStatus": "Ожидает предложений",
+  "@pendingLotStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownStatus": "Неизвестный статус",
+  "@unknownStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusChangedToInDelivery": "Статус посылки изменен на \"В процессе доставки\"",
+  "@statusChangedToInDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "review": "Отзыв",
+  "@review": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "comment": "Комментарий",
+  "@comment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourMark": "Ваша оценка",
+  "@yourMark": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourMarkForSenderUpper": "ВАША ОЦЕНКА ДЛЯ ОТПРАВИТЕЛЯ",
+  "@yourMarkForSenderUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsToSendOrDeliver": "В данный момент у вас нет посылок для отправки или доставки",
+  "@noItemsToSendOrDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending": "Отправляю",
+  "@sending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivering": "Доставляю",
+  "@delivering": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryDate": "Дата доставки",
+  "@deliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryDetailsUpper": "ДЕТАЛИ ДОСТАВКИ",
+  "@deliveryDetailsUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inDeliveryByUpper": "ДОСТАВЛЯЕТ",
+  "@inDeliveryByUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPersonSelected": "Исполнитель выбран",
+  "@deliveryPersonSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willBeDeliveredByUpper": "ПОСЫЛКУ ДОСТАВИТ",
+  "@willBeDeliveredByUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemMovedToConfirmedStatus": "Ваша посылка переведена в статус \"Подтверждено\"",
+  "@itemMovedToConfirmedStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offers": "Предложения",
+  "@offers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHaveNoOffersYet": "У вас пока нет предложений",
+  "@youHaveNoOffersYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHave": "У вас",
+  "@youHave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newOffer": "новое предложение",
+  "@newOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newOffers": "новых предложений",
+  "@newOffers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneToFourNewOffers": "новых предложения",
+  "@oneToFourNewOffers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveredBy": "Доставил",
+  "@deliveredBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseConfirmDeliveryIn24hrs": "Пожалуйста, подтвердите доставку или сообщите нам о недоставленной посылке в течение 24 часов.",
+  "@pleaseConfirmDeliveryIn24hrs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDelivered": "Посылка доставлена",
+  "@itemDelivered": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDeliveredUpper": "ПОСЫЛКА ДОСТАВЛЕНА",
+  "@itemDeliveredUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemNotDeliveredUpper": "ПОСЫЛКА НЕ ДОСТАВЛЕНА",
+  "@itemNotDeliveredUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDelivery": "Подтвердить доставку",
+  "@confirmDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryConfirmed": "Доставка подтверждена",
+  "@deliveryConfirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemInGoodCondition": "Посылка в целости",
+  "@itemInGoodCondition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveredInTime": "Доставлено вовремя",
+  "@deliveredInTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealNotFound": "Сделка не найдена",
+  "@dealNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerDeclined": "Предложение отклонено",
+  "@offerDeclined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerFromUpper": "ПРЕДЛОЖЕНИЕ ОТ",
+  "@offerFromUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willDeliverPrice": "Доставит за",
+  "@willDeliverPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willDeliverUntil": "Доставит до",
+  "@willDeliverUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancellation": "Отмена",
+  "@cancellation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealCancellation": "Отмена сделки",
+  "@dealCancellation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancellationReasonUpper": "ПРИЧИНА ОТМЕНЫ",
+  "@cancellationReasonUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancellationReasonMissing": "Не указана причина",
+  "@cancellationReasonMissing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provideCancellationReason": "Опишите причину отмены",
+  "@provideCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseProvideCancellationReason": "Пожалуйста, укажите причину отмены",
+  "@pleaseProvideCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealCancelledSuccessfully": "Сделка успешно отменена",
+  "@dealCancelledSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "activeItems": "Активные",
+  "@activeItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveredItems": "Доставлено",
+  "@deliveredItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "archivedItems": "Архив",
+  "@archivedItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "items": "Посылки",
+  "@items": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offer": "Предложение",
+  "@offer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourPriceUpper": "ВАША ЦЕНА",
+  "@yourPriceUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "readyToDeliver": "Готов доставить",
+  "@readyToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSendOffer": "Не удалось отправить предложение",
+  "@unableToSendOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "externalContact": "Внешний контакт",
+  "@externalContact": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberHiddenUntilDealAccepted": "Номер телефона скрыт и будет доступен в случае подтверждения сделки",
+  "@phoneNumberHiddenUntilDealAccepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerSent": "Предложение отправлено",
+  "@offerSent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "backToSearch": "Вернуться к поиску",
+  "@backToSearch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerCreatedInPendingState": "Создано предложение со статусом \"На рассмотрении\". Вы можете отслеживать актуальный статус в \"Моих посылках\".",
+  "@offerCreatedInPendingState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchErrorPleaseCheckParams": "Произошла ошибка. Пожалуйста, проверьте параметры поиска.",
+  "@searchErrorPleaseCheckParams": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsOnRouteFound": "В данный момент мы не нашли посылок по этому маршруту. \n",
+  "@noItemsOnRouteFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pressHereToSaveFilter": "Нажмите здесь, чтобы сохранить фильтр",
+  "@pressHereToSaveFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "andGetNotificationsOnFilter": "и получать уведомления о новых посылках по данному направлению",
+  "@andGetNotificationsOnFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSaveFilter": "Не удалось сохранить фильтр",
+  "@unableToSaveFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filterSavedSuccessfully": "Фильтр успешно сохранен",
+  "@filterSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filterIsAvailableInAllFiltersList": "Фильтр доступен на экране \"Все фильтры\"",
+  "@filterIsAvailableInAllFiltersList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "option": "вариант",
+  "@option": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "optionsOneToFour": "варианта",
+  "@optionsOneToFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "optionsFourAndMore": "вариантов",
+  "@optionsFourAndMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAvailableItems": "Нет доступных посылок",
+  "@noAvailableItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weHaveFound": "Мы нашли для вас",
+  "@weHaveFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "found": "найдено",
+  "@found": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectFilter": "Выберите фильтр",
+  "@selectFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noSavedFilters": "У вас нет сохраненных фильтров",
+  "@noSavedFilters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizesNotDefined": "Размеры не заданы",
+  "@sizesNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "back": "Назад",
+  "@back": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allFilters": "Все фильтры",
+  "@allFilters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePoints": "Промежуточные пункты",
+  "@intermediatePoints": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newFilter": "Новый фильтр",
+  "@newFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSelected": "Не выбраны",
+  "@notSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sortBy": "Сортировать по",
+  "@sortBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "applyFilter": "Применить фильтр",
+  "@applyFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveFilter": "Сохранить фильтр",
+  "@saveFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetFilter": "Сбросить фильтр",
+  "@resetFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePointsRouteHint": "Укажите населенный пункт (или несколько пунктов), мимо которого вы будете проезжать. Мы составим выборку посылок с учетом этих пунктов.",
+  "@intermediatePointsRouteHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addIntermediatePoint": "Добавить промежуточный пункт",
+  "@addIntermediatePoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectedPoints": "Выбранные пункты",
+  "@selectedPoints": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePoint": "Промежуточный пункт",
+  "@intermediatePoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePointAddress": "Адрес промежуточного пункта",
+  "@intermediatePointAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defineOriginPoint": "Задайте точку отправления",
+  "@defineOriginPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defineDestinationPoint": "Задайте точку назначения",
+  "@defineDestinationPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "location": "Местоположение",
+  "@location": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destination": "Точка назначения",
+  "@destination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "origin": "Точка отправления",
+  "@origin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizesToDeliver": "Готов доставить размеры",
+  "@sizesToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizes": "Размеры",
+  "@sizes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizesMissing": "Не указаны размеры посылки",
+  "@sizesMissing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAtLeastOneSize": "Необходимо выбрать по крайней мере один размер",
+  "@pleaseSelectAtLeastOneSize": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anyDirection": "Любое направление",
+  "@anyDirection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fromPoint": "Из города",
+  "@fromPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toPoint": "В город",
+  "@toPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kDefaultDeliveryMessage": "Добрый день! Могу доставить Вашу посылку!",
+  "@kDefaultDeliveryMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviews": "Отзывы",
+  "@reviews": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noComments": "Комментария нет",
+  "@noComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutUser": "О пользователе",
+  "@aboutUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetClear": "Сбросить",
+  "@resetClear": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allSavedFilters": "Все сохраненные фильтры",
+  "@allSavedFilters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutMe": "Обо мне",
+  "@aboutMe": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registeredOn": "Дата регистрации",
+  "@registeredOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemsSent": "Отправлено",
+  "@itemsSent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemsDelivered": "Доставлено",
+  "@itemsDelivered": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rating": "Рейтинг",
+  "@rating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toDelete": "Удалить",
+  "@toDelete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removal": "Удаление",
+  "@removal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allOffersWillBeDeleted": "Вместе с посылкой будут также удалены все предложения",
+  "@allOffersWillBeDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editViaWeb": "Редактировать (Web)",
+  "@editViaWeb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendMessage": "Отправить сообщение",
+  "@sendMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youDoNotHaveAnyDeals": "У вас нет сделок в данный момент",
+  "@youDoNotHaveAnyDeals": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyNumber": "Подтвердить номер",
+  "@verifyNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chatIsDisabled": "Чат отключен, так как сделка не активна",
+  "@chatIsDisabled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sent": "Отправлено",
+  "@sent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "read": "Прочитано",
+  "@read": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allParcelDataWillBeReset": "Вся информация о посылке будет сброшена",
+  "@allParcelDataWillBeReset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Закрыть",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerAccepted": "Предложение принято",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Размер",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerUpper": "ЗАРЕГИСТРИРОВАТЬСЯ",
+  "@registerUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doNotHaveAnAccount": "У вас еще нет аккаунта?",
+  "@doNotHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAccountUpper": "СОЗДАТЬ АККАУНТ",
+  "@createAccountUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseFillInAllFields": "Пожалуйста заполните все поля",
+  "@pleaseFillInAllFields": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreatedSuccessfully": "Аккаунт успешно создан",
+  "@accountCreatedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanChangePhoneUnderProfile": "Вы можете изменить и подтвердить номер телефона в профиле в любой момент",
+  "@youCanChangePhoneUnderProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmNumberUpper": "ПОДТВЕРДИТЬ НОМЕР",
+  "@confirmNumberUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Описание",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdOn": "Добавлено",
+  "@createdOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpPerson": "У кого забрать",
+  "@pickUpPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueUpper": "ПРОДОЛЖИТЬ",
+  "@continueUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toCancelOffer": "Отменить предложение",
+  "@toCancelOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toCancelDeal": "Отменить сделку",
+  "@toCancelDeal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerCancellation": "Отмена предложения",
+  "@offerCancellation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCodeFromSms": "Введите код из SMS",
+  "@enterCodeFromSms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendCodeAgain": "Отправить код снова",
+  "@sendCodeAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutMyself": "О себе",
+  "@aboutMyself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmedM": "Подтвержден",
+  "@confirmedM": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notConfirmedM": "Не подтвержден",
+  "@notConfirmedM": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myItems": "Мои посылки",
+  "@myItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chatWithPackedoo": "Чат с Packedoo",
+  "@chatWithPackedoo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "askUsAnything": "Задайте нам любой вопрос",
+  "@askUsAnything": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forSmall": "за",
+  "@forSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitingForPickup": "Готово к отправке",
+  "@waitingForPickup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat": "Чат",
+  "@chat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Адрес",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverWillPickUpFrom": "Водитель заберет посылку у",
+  "@driverWillPickUpFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverWillDeliverTo": "Водитель доставит посылку",
+  "@driverWillDeliverTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select": "Выбрать",
+  "@select": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpParcelFrom": "Заберите посылку у",
+  "@pickUpParcelFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliverParcelTo": "Доставьте посылку",
+  "@deliverParcelTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "parcelPickedUp": "Посылка у меня",
+  "@parcelPickedUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseProvideDeliveryCode": "Введите код подтверждения доставки",
+  "@pleaseProvideDeliveryCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "codeYouCanGetFromSender": "Код должен сообщить отправитель",
+  "@codeYouCanGetFromSender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noReviewsYet": "Отзывов пока нет",
+  "@noReviewsYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToPickUpFrom": "Отдаст посылку",
+  "@personToPickUpFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToDeliver": "Получит посылку",
+  "@personToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "from": "Откуда",
+  "@from": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "to": "Куда",
+  "@to": {
+    "type": "text",
+    "placeholders": {}
+  },
+  ,
+  "youCanChangePrice": "Вы можете изменить цену",
+  "@youCanChangePrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toBeDeliveredUntil": "Доставить до",
+  "@toBeDeliveredUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allPacks": "Все посылки",
+  "@allPacks": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendPack": "Отправить посылку",
+  "@sendPack": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driver": "Водитель",
+  "@driver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverProfile": "Профиль водителя",
+  "@driverProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "senderProfile": "Профиль отправителя",
+  "@senderProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsToSend": "В данный момент у вас нет посылок для отправки",
+  "@noItemsToSend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsToDeliver": "В данный момент у вас нет посылок для доставки",
+  "@noItemsToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anyDate": "Любая дата",
+  "@anyDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPhoneNumberFormat": "Неверный формат телефона",
+  "@invalidPhoneNumberFormat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Сохранить",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tellAboutYourself": "Расскажите о себе",
+  "@tellAboutYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutUserHelperText": "Сообщество Packedoo строится на доверии. Расскажите о себе нашим пользователям - чем Вы занимаетесь, как ваша жизнь связана с передвижением, на каком виде транспорта вы передвигаетесь чаще всего.",
+  "@aboutUserHelperText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newRoute": "Новый маршрут",
+  "@newRoute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "findParcels": "Найти посылки",
+  "@findParcels": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveRoute": "Сохранить маршрут",
+  "@saveRoute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeSaved": "Маршрут сохранен",
+  "@routeSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeSavedAndAvailableInSidePanel": "Маршрут сохранен и теперь доступен в боковом меню",
+  "@routeSavedAndAvailableInSidePanel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeRemoved": "Маршрут удален",
+  "@routeRemoved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routes": "Маршруты",
+  "@routes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "Изменить",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeRoutes": "Редактировать маршруты",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youDontHaveSavedRoutesYet": "У вас пока нет сохраненных маршрутов",
+  "@youDontHaveSavedRoutesYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliver": "Доставить",
+  "@deliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveRouteInfoMessage": "Сохраните маршрут для получения уведомлений о новых посылках",
+  "@saveRouteInfoMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillGetNotificationsOnNewParcelsAlongRoute": "Вы будете получать уведомления обо всех новых посылках по маршруту",
+  "@youWillGetNotificationsOnNewParcelsAlongRoute": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

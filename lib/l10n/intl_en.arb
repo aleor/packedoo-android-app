@@ -1,0 +1,2052 @@
+{
+  "packListAllItems": "All Items",
+  "@packListAllItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "call": "Call",
+  "@call": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "apply": "Apply",
+  "@apply": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callSender": "Call Sender",
+  "@callSender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callRecipient": "Call Recipient",
+  "@callRecipient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "callPersonToPickUpFrom": "Call Sender's Contact",
+  "@callPersonToPickUpFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactSendMessage": "Send message",
+  "@contactSendMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberNotProvided": "Phone number not provided",
+  "@phoneNumberNotProvided": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToPerformCall": "Unable to make a call",
+  "@unableToPerformCall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToOpenWebAddress": "Unable to open web page",
+  "@unableToOpenWebAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealNotDefined": "Deal is not defined",
+  "@dealNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidUrl": "Invalid URL",
+  "@invalidUrl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filter": "Filter",
+  "@filter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectMoover": "Select this person",
+  "@selectMoover": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactPerson": "Contact",
+  "@contactPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "decline": "Decline",
+  "@decline": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberHidden": "Phone number hidden",
+  "@phoneNumberHidden": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutDelivery": "About delivery",
+  "@aboutDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "until": "Until",
+  "@until": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "priceUpper": "PRICE",
+  "@priceUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryUntilUpper": "DELIVERY UNTIL",
+  "@deliveryUntilUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "parcel": "Item",
+  "@parcel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourParcel": "Your item",
+  "@yourParcel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "senderUpper": "SENDER",
+  "@senderUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpPersonUpper": "PICK UP FROM (PERSON)",
+  "@pickUpPersonUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recipientUpper": "RECIPIENT",
+  "@recipientUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeUpper": "ROUTE",
+  "@routeUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "km": "km",
+  "@km": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAdditionalDescription": "No additional description provided",
+  "@noAdditionalDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "byContinueRegistration": "By continuing, you are agreeing with",
+  "@byContinueRegistration": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registrationPolicies": "terms, conditions and privacy policies",
+  "@registrationPolicies": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packedooService": "of Packedoo service",
+  "@packedooService": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginFailed": "Login failed",
+  "@loginFailed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "googleLoginFailed": "Login with Google account failed",
+  "@googleLoginFailed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile": "Profile",
+  "@profile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logInUpper": "LOGIN",
+  "@logInUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherLoginOptions": "Other login options",
+  "@otherLoginOptions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logIn": "Login",
+  "@logIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAndPasswordRequired": "Please provide your e-mail and password",
+  "@emailAndPasswordRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmailOrPassword": "Invalid e-mail or password",
+  "@invalidEmailOrPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userDisabled": "User account disabled. Please contact support service.",
+  "@userDisabled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Next",
+  "@next": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPhoto": "Add photo",
+  "@addPhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectFromGallery": "Select from gallery",
+  "@selectFromGallery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "makeNewPhoto": "Make new photo",
+  "@makeNewPhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noCameraPermissions": "No access to camera",
+  "@noCameraPermissions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cameraAccessRequired": "App needs an access to Camera",
+  "@cameraAccessRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toSettings": "To Settings",
+  "@toSettings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noGalleryPermissions": "No access to gallery",
+  "@noGalleryPermissions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "galleryAccessRequired": "App needs an access to gallery",
+  "@galleryAccessRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "surname": "Surname",
+  "@surname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provideRealNameAndSurname": "Please provide your real name and surname",
+  "@provideRealNameAndSurname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "missingData": "Missing data",
+  "@missingData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameSurnameRequired": "Please provide both name and surname",
+  "@nameSurnameRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "realPhoneNumberRequired": "Please provide real phone number. You'd need to confirm it in order to use Packedoo",
+  "@realPhoneNumberRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "Phone",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConfirmation": "Confirm password",
+  "@passwordConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provideEmailAndPhone": "Please provide both e-mail and phone number",
+  "@provideEmailAndPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "providePasswordAndConfirmation": "Please provide password and password confirmation",
+  "@providePasswordAndConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordShouldHaveAtLeast6": "Password should have at least 6 symbols",
+  "@passwordShouldHaveAtLeast6": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordsMismatch": "Passwords do not match",
+  "@passwordsMismatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidEmail": "Invalid e-mail",
+  "@invalidEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailTaken": "User with this e-mail is already registered",
+  "@emailTaken": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip": "Skip",
+  "@skip": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreated": "Account created!",
+  "@accountCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreatedConfirmPhone": "Please verify phone number in order to get full access to Packedoo features",
+  "@accountCreatedConfirmPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPhone": "Confirm phone",
+  "@confirmPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "warning": "Warning",
+  "@warning": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNotConfirmedLimitations": "You wouldn't be able to use all features without verified phone number",
+  "@phoneNotConfirmedLimitations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownPhoneNumber": "Phone number missing",
+  "@unknownPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberMissing": "It seems your phone number is missing",
+  "@phoneNumberMissing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneConfirmationReason": "Verified phone number is required in order to get access to all features of the service",
+  "@phoneConfirmationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNumber": "Add number",
+  "@addNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPhone": "Add phone",
+  "@addPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNotDefined": "Phone number not defined",
+  "@phoneNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberNotDefined": "Phone number missing",
+  "@phoneNumberNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "Phone number",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "providePhoneNumber": "Please provide your phone number",
+  "@providePhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "failedToAddPhone": "Unable to add phone, please try again later",
+  "@failedToAddPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPhoneToSendAndDeliver": "Please verify your phone number to be able to send and deliver items",
+  "@confirmPhoneToSendAndDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "codeSentViaSMS": "SMS code sent to the provided phone number",
+  "@codeSentViaSMS": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendCodeBySms": "Send code by SMS",
+  "@sendCodeBySms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendAgainPossibleAfter": "Another request is possible in",
+  "@sendAgainPossibleAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sec": "sec.",
+  "@sec": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCodeUpper": "ENTER CODE",
+  "@enterCodeUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCodeFormat": "Invalid code format",
+  "@invalidCodeFormat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberConfirmed": "Number verified",
+  "@numberConfirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "numberConfirmedAccessGained": "Phone number verified, now you have access to all features of the service",
+  "@numberConfirmedAccessGained": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCode": "Incorrect code",
+  "@invalidCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToVerifyCodeTryAgainLater": "Unable to verify code, please try again later",
+  "@unableToVerifyCodeTryAgainLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToRequestCodeTryAgainLater": "Unable to request code, please try again later",
+  "@unableToRequestCodeTryAgainLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "messages": "Messages",
+  "@messages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mainUpper": "MAIN",
+  "@mainUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "additionalUpper": "ADDITIONAL",
+  "@additionalUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceTerms": "Service terms and conditions",
+  "@serviceTerms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "interfaceLang": "Language",
+  "@interfaceLang": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "About app",
+  "@aboutApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeDataViaWeb": "Personal data can be changed via web-site",
+  "@changeDataViaWeb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameNotDefined": "Name unknown",
+  "@nameNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "Date",
+  "@date": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "distance": "Distance",
+  "@distance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePersonalDataWeb": "Change profile data (Web)",
+  "@changePersonalDataWeb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "version": "Version",
+  "@version": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packedooSlogan": "Packedoo - Send with those along the way",
+  "@packedooSlogan": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberChangedNotSaved": "Phone number changed, you'd need to verify it after save",
+  "@phoneNumberChangedNotSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberConfirmed": "Phone number verified",
+  "@phoneNumberConfirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberNotConfirmedLimitations": "Phone number not verified. Confirmed phone number is required for sending and delivering items.",
+  "@phoneNumberNotConfirmedLimitations": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveNewNumber": "Save new phone number",
+  "@saveNewNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmNumber": "Verify phone number",
+  "@confirmNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "updated": "Updated",
+  "@updated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberSavedSuccessfully": "Phone number saved successfully",
+  "@phoneNumberSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSaveNumberTryLater": "Unable to save phone number, please try again later",
+  "@unableToSaveNumberTryLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "canCreateOnlyWithConfirmedPhone": "Only users with verified phone number can create new items.",
+  "@canCreateOnlyWithConfirmedPhone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPhoneNumber": "Verify phone number",
+  "@confirmPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addPhoneNumber": "Add phone number",
+  "@addPhoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createNew": "Create new",
+  "@createNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "goodPhotoHint": "Good photo can significantly increase chances to get a delivery offer",
+  "@goodPhotoHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemPhoto": "Item photo",
+  "@itemPhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemCreated": "Item created",
+  "@itemCreated": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendDetailsUpper": "DETAILS",
+  "@sendDetailsUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cost": "Cost",
+  "@cost": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryUntil": "Delivery until",
+  "@deliveryUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toBeDeliveredUntil": "To be delivered until",
+  "@toBeDeliveredUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemCreatedInPendingState": "Item successfully created and pending for offers.",
+  "@itemCreatedInPendingState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAnotherItem": "Create another item",
+  "@createAnotherItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toMyItems": "View my items",
+  "@toMyItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemSizeUpper": "ITEM SIZE",
+  "@itemSizeUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "describeItem": "Describe the item",
+  "@describeItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemTitle": "Item title",
+  "@itemTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDescription": "Item description",
+  "@itemDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDescriptionHint": "Here you can describe your item and add any additional notes. A detailed description will increase your chances of getting an offer.",
+  "@itemDescriptionHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePhoto": "Change photo",
+  "@changePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "small": "Small",
+  "@small": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "smallDescription": "For the glove compartment",
+  "@smallDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "medium": "Medium",
+  "@medium": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "mediumDescription": "For the front seat",
+  "@mediumDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "large": "Large",
+  "@large": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "largeDescription": "For the rear seat(s)",
+  "@largeDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "veryLarge": "Very large",
+  "@veryLarge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "veryLargeDescription": "For trunk or roof",
+  "@veryLargeDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "xxl": "Outsized",
+  "@xxl": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "xxlDescription": "For truck",
+  "@xxlDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidTitle": "Invalid title",
+  "@invalidTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleTooShort": "Title should have at least 3 symbols",
+  "@titleTooShort": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "price": "Price",
+  "@price": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recommendedPrice": "Recommended price",
+  "@recommendedPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourPrice": "Your price",
+  "@yourPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "packedooCommission": "Packedoo commission",
+  "@packedooCommission": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "total": "Total",
+  "@total": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPrice": "Invalid price",
+  "@invalidPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseCheckPriceValue": "Please check price value",
+  "@pleaseCheckPriceValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableCreateItem": "Unable to create item, please try again later",
+  "@unableCreateItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactInfo": "Contact details",
+  "@contactInfo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameAndSurname": "Name and surname",
+  "@nameAndSurname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "done": "Done",
+  "@done": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contact": "Contact",
+  "@contact": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseFillBothFields": "Please fill in both fields",
+  "@pleaseFillBothFields": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpItemFrom": "Where to pick up from",
+  "@pickUpItemFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliverItemTo": "Deliver to",
+  "@deliverItemTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myLocation": "My location",
+  "@myLocation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "originAddress": "Origin address",
+  "@originAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destinationAddress": "Destination address",
+  "@destinationAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "missingPermissions": "Missing permissions",
+  "@missingPermissions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "geolocationAccessRequired": "An app needs geolocation access to determine your location",
+  "@geolocationAccessRequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentLocationUnknown": "Could not determine current location",
+  "@currentLocationUnknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "originUpper": "ORIGIN",
+  "@originUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destinationUpper": "DESTINATION",
+  "@destinationUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPointAddress": "Delivery point address",
+  "@deliveryPointAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "route": "Route",
+  "@route": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToPickUpFromUpper": "WHO WILL GIVE THE ITEM",
+  "@personToPickUpFromUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "meUpper": "Myself",
+  "@meUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anotherPerson": "Another person",
+  "@anotherPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sender": "Sender",
+  "@sender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "recipient": "Recipient",
+  "@recipient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToDeliverUpper": "WILL RECEIVE THE ITEM",
+  "@personToDeliverUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "missingRoute": "Route is not defined",
+  "@missingRoute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectBothAddresses": "Please select both origin and destination addresses",
+  "@pleaseSelectBothAddresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmed": "Confirmed",
+  "@confirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickedUpItem": "I took the package",
+  "@pickedUpItem": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toBeDeliveredUntil": "To be delivered until",
+  "@toBeDeliveredUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillDeliverUntil": "Will deliver until",
+  "@youWillDeliverUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillDeliverUntilUpper": "WILL DELIVER UNTIL",
+  "@youWillDeliverUntilUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillGet": "You will earn",
+  "@youWillGet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cantMakeRequest": "Can't make a request, please try again later",
+  "@cantMakeRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offeredPrice": "Offered price",
+  "@offeredPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offeredDate": "Offered date",
+  "@offeredDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerDeclinedBySender": "Your offer has been declined by the sender",
+  "@offerDeclinedBySender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerCancelled": "You have canceled this offer.",
+  "@offerCancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelled": "Canceled",
+  "@cancelled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "declined": "Declined",
+  "@declined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pendingConfirmation": "Pending confirmation",
+  "@pendingConfirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPendingConfirmationUpper": "DELIVERY PENDING CONFIRMATION",
+  "@deliveryPendingConfirmationUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPendingConfirmationHint": "Awaiting delivery confirmation by sender. Automatic confirmation will occur after 24 hours.",
+  "@deliveryPendingConfirmationHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactSupport": "Contact support",
+  "@contactSupport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inDelivery": "In delivery",
+  "@inDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "didDeliver": "I delivered the item",
+  "@didDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivered": "Delivered",
+  "@delivered": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourRateForSenderUpper": "RATE SENDER",
+  "@yourRateForSenderUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourRateForDeliveryPersonUpper": "RATE CONTRACTOR",
+  "@yourRateForDeliveryPersonUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewFromSenderWillBeVisibleAfterCrossReviewHint": "You can see the review left by the sender after you leave your review",
+  "@reviewFromSenderWillBeVisibleAfterCrossReviewHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewFromDeliveryPersonWillBeVisibleAfterCrossReviewHint": "You can see the review left by the contractor after you leave your review",
+  "@reviewFromDeliveryPersonWillBeVisibleAfterCrossReviewHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "leaveReview": "Leave review",
+  "@leaveReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "leaveReviewLater": "Leave review later",
+  "@leaveReviewLater": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "asDescribed": "As described",
+  "@asDescribed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "senderAvailability": "Sender Availability",
+  "@senderAvailability": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "friendliness": "Friendly attitude",
+  "@friendliness": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourReviewComments": "Your review (optional)",
+  "@yourReviewComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noRatingGiven": "Not rated",
+  "@noRatingGiven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseAddRatingMark": "Please rate (1 to 5)",
+  "@pleaseAddRatingMark": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviewAdded": "Review added",
+  "@reviewAdded": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thankYouForReview": "Thanks for your review!",
+  "@thankYouForReview": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemPickedUp": "Item picked up",
+  "@itemPickedUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toDeliveriesList": "To deliveries",
+  "@toDeliveriesList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pendingDealStatus": "Pending",
+  "@pendingDealStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pendingLotStatus": "Awaiting Proposals",
+  "@pendingLotStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknownStatus": "Unknown status",
+  "@unknownStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "statusChangedToInDelivery": "Item status changed to \"In Delivery\"",
+  "@statusChangedToInDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "review": "Review",
+  "@review": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "comment": "Comment",
+  "@comment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourMark": "Rate",
+  "@yourMark": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourMarkForSenderUpper": "RATE SENDER",
+  "@yourMarkForSenderUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsToSendOrDeliver": "Currently you do not have packages to ship or deliver",
+  "@noItemsToSendOrDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sending": "Sending",
+  "@sending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "delivering": "Delivering",
+  "@delivering": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryDate": "Delivery date",
+  "@deliveryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryDetailsUpper": "DELIVERY TERMS",
+  "@deliveryDetailsUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "inDeliveryByUpper": "IN DELIVERY BY",
+  "@inDeliveryByUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryPersonSelected": "Contractor selected",
+  "@deliveryPersonSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willBeDeliveredByUpper": "WILL BE DELIVERED BY",
+  "@willBeDeliveredByUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemMovedToConfirmedStatus": "Your item status changed to \"Confirmed\"",
+  "@itemMovedToConfirmedStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offers": "Proposals",
+  "@offers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHaveNoOffersYet": "Currently you do not have any proposals",
+  "@youHaveNoOffersYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youHave": "You've got",
+  "@youHave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newOffer": "new offer",
+  "@newOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newOffers": "new offers",
+  "@newOffers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneToFourNewOffers": "new offers",
+  "@oneToFourNewOffers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveredBy": "Delivered by",
+  "@deliveredBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseConfirmDeliveryIn24hrs": "Please confirm delivery or notify us of undelivered items within 24 hours.",
+  "@pleaseConfirmDeliveryIn24hrs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDelivered": "Item delivered",
+  "@itemDelivered": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemDeliveredUpper": "ITEM DELIVERED",
+  "@itemDeliveredUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemNotDeliveredUpper": "ITEM IS NOT DELIVERED",
+  "@itemNotDeliveredUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmDelivery": "Confirm delivery",
+  "@confirmDelivery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveryConfirmed": "Delivery confirmed",
+  "@deliveryConfirmed": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemInGoodCondition": "Item is not damaged",
+  "@itemInGoodCondition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveredInTime": "Delivered in time",
+  "@deliveredInTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealNotFound": "Deal not found",
+  "@dealNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerDeclined": "Proposal declined",
+  "@offerDeclined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerFromUpper": "PROPOSAL FROM",
+  "@offerFromUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willDeliverPrice": "Proposed delivery price",
+  "@willDeliverPrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "willDeliverUntil": "Proposed delivery date (until)",
+  "@willDeliverUntil": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancellation": "Cancellation",
+  "@cancellation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealCancellation": "Deal cancellation",
+  "@dealCancellation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancellationReasonUpper": "CANCELLATION REASON",
+  "@cancellationReasonUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancellationReasonMissing": "Please provide cancellation reason",
+  "@cancellationReasonMissing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "provideCancellationReason": "Describe the reason for cancellation",
+  "@provideCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseProvideCancellationReason": "Please describe the reason for cancellation",
+  "@pleaseProvideCancellationReason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dealCancelledSuccessfully": "Deal successfully canceled",
+  "@dealCancelledSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "activeItems": "Active",
+  "@activeItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliveredItems": "Delivered",
+  "@deliveredItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "archivedItems": "Archived",
+  "@archivedItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "items": "Items",
+  "@items": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offer": "Proposal",
+  "@offer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourPriceUpper": "YOUR PRICE",
+  "@yourPriceUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "readyToDeliver": "Ready to deliver",
+  "@readyToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSendOffer": "Unable to send proposal, please try again later",
+  "@unableToSendOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "externalContact": "External contact",
+  "@externalContact": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumberHiddenUntilDealAccepted": "The phone number is hidden and will be available in case of deal acceptance",
+  "@phoneNumberHiddenUntilDealAccepted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerSent": "Proposal sent",
+  "@offerSent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "backToSearch": "Back to search",
+  "@backToSearch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerCreatedInPendingState": "A proposal has been created with the status \"Pending\". You can track the current status in \"My packages\".",
+  "@offerCreatedInPendingState": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchErrorPleaseCheckParams": "An error has occurred. Please check search parameters.",
+  "@searchErrorPleaseCheckParams": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsOnRouteFound": "At the moment, we have not found packages on this route. \n",
+  "@noItemsOnRouteFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pressHereToSaveFilter": "Click here to save the filter",
+  "@pressHereToSaveFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "andGetNotificationsOnFilter": "and receive notifications of new packages in this direction",
+  "@andGetNotificationsOnFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unableToSaveFilter": "Unable to save filter",
+  "@unableToSaveFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filterSavedSuccessfully": "Filter saved successfully",
+  "@filterSavedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "filterIsAvailableInAllFiltersList": "The filter is available on the \"All Filters\" screen.",
+  "@filterIsAvailableInAllFiltersList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "option": "option",
+  "@option": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "optionsOneToFour": "options",
+  "@optionsOneToFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "optionsFourAndMore": "options",
+  "@optionsFourAndMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAvailableItems": "No available items",
+  "@noAvailableItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weHaveFound": "We have found",
+  "@weHaveFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "found": "found",
+  "@found": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectFilter": "Choose filter",
+  "@selectFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noSavedFilters": "You have no saved filters",
+  "@noSavedFilters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizesNotDefined": "Sizes not selected",
+  "@sizesNotDefined": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "back": "Back",
+  "@back": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allFilters": "All filters",
+  "@allFilters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePoints": "Intermediate points",
+  "@intermediatePoints": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newFilter": "New filter",
+  "@newFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notSelected": "Not selected",
+  "@notSelected": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sortBy": "Sort by",
+  "@sortBy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "applyFilter": "Apply filter",
+  "@applyFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveFilter": "Save filter",
+  "@saveFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetFilter": "Clear filter",
+  "@resetFilter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePointsRouteHint": "Indicate the waypoints (or intermediate points), by which you will pass. We will make a selection of items taking into account these points.",
+  "@intermediatePointsRouteHint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addIntermediatePoint": "Add waypoint",
+  "@addIntermediatePoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectedPoints": "Selected waypoints",
+  "@selectedPoints": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePoint": "Intermediate point",
+  "@intermediatePoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "intermediatePointAddress": "Intermediate point address",
+  "@intermediatePointAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defineOriginPoint": "Select origin",
+  "@defineOriginPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defineDestinationPoint": "Select destination",
+  "@defineDestinationPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "location": "Location",
+  "@location": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destination": "Destination point",
+  "@destination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "origin": "Origin",
+  "@origin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizesToDeliver": "Ready to deliver sizes",
+  "@sizesToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizes": "Sizes",
+  "@sizes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sizesMissing": "Sizes not selected",
+  "@sizesMissing": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseSelectAtLeastOneSize": "Please select at least one size",
+  "@pleaseSelectAtLeastOneSize": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anyDirection": "Any direction",
+  "@anyDirection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fromPoint": "From point",
+  "@fromPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toPoint": "To point",
+  "@toPoint": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "kDefaultDeliveryMessage": "Hello, ready to deliver your item!",
+  "@kDefaultDeliveryMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reviews": "Reviews",
+  "@reviews": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noComments": "No comments left",
+  "@noComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutUser": "About user",
+  "@aboutUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetClear": "Clear",
+  "@resetClear": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allSavedFilters": "All saved filters",
+  "@allSavedFilters": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutMe": "About me",
+  "@aboutMe": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registeredOn": "Registered on",
+  "@registeredOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemsSent": "Items Sent",
+  "@itemsSent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "itemsDelivered": "Items Delivered",
+  "@itemsDelivered": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rating": "Rating",
+  "@rating": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toDelete": "Delete",
+  "@toDelete": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "removal": "Delete",
+  "@removal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allOffersWillBeDeleted": "Please note all offers will be deleted along with the item",
+  "@allOffersWillBeDeleted": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editViaWeb": "Edit (Web)",
+  "@editViaWeb": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendMessage": "Send message",
+  "@sendMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youDoNotHaveAnyDeals": "You do not have any deals at the moment",
+  "@youDoNotHaveAnyDeals": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyNumber": "Verify",
+  "@verifyNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chatIsDisabled": "Chat is disabled as deal is no longer active",
+  "@chatIsDisabled": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sent": "Sent",
+  "@sent": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "read": "Read",
+  "@read": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allParcelDataWillBeReset": "All data for the parcel will be reset",
+  "@allParcelDataWillBeReset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerAccepted": "Offer Accepted",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "size": "Size",
+  "@size": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerUpper": "REGISTER",
+  "@registerUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doNotHaveAnAccount": "Do not have an account?",
+  "@doNotHaveAnAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createAccountUpper": "CREATE ACCOUNT",
+  "@createAccountUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseFillInAllFields": "Please fill in all fields",
+  "@pleaseFillInAllFields": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreatedSuccessfully": "Account created successfully",
+  "@accountCreatedSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanChangePhoneUnderProfile": "You can change and verify phone number via Profile later",
+  "@youCanChangePhoneUnderProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmNumberUpper": "CONFIRM NUMBER",
+  "@confirmNumberUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createdOn": "Created on",
+  "@createdOn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpPerson": "Pick up from (person)",
+  "@pickUpPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueUpper": "CONTINUE",
+  "@continueUpper": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toCancelOffer": "Cancel offer",
+  "@toCancelOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offerCancellation": "Offer cancellation",
+  "@offerCancellation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "enterCodeFromSms": "Enter code from SMS",
+  "@enterCodeFromSms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendCodeAgain": "Send code again",
+  "@sendCodeAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutMyself": "About myself",
+  "@aboutMyself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmedM": "Confirmed",
+  "@confirmedM": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notConfirmedM": "Not confirmed",
+  "@notConfirmedM": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myItems": "My items",
+  "@myItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chatWithPackedoo": "Chat with Packedoo",
+  "@chatWithPackedoo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "askUsAnything": "Ask us anything",
+  "@askUsAnything": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forSmall": "for",
+  "@forSmall": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitingForPickup": "Waiting for pickup",
+  "@waitingForPickup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chat": "Chat",
+  "@chat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverWillPickUpFrom": "Item will be picked up from",
+  "@driverWillPickUpFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverWillDeliverTo": "Item will be delivered to",
+  "@driverWillDeliverTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select": "Select",
+  "@select": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "toCancelDeal": "Cancel deal",
+  "@toCancelDeal": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pickUpParcelFrom": "Pick up parcel from",
+  "@pickUpParcelFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliverParcelTo": "Deliver parcel to",
+  "@deliverParcelTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "parcelPickedUp": "Parcel picked up",
+  "@parcelPickedUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseProvideDeliveryCode": "Please enter delivery confirmation code",
+  "@pleaseProvideDeliveryCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "codeYouCanGetFromSender": "You can get the code from sender",
+  "@codeYouCanGetFromSender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noReviewsYet": "No reviews yet",
+  "@noReviewsYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToPickUpFrom": "Pick up from",
+  "@personToPickUpFrom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "personToDeliver": "Deliver to",
+  "@personToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "from": "From",
+  "@from": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "to": "To",
+  "@to": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youCanChangePrice": "You can offer another price",
+  "@youCanChangePrice": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driver": "Driver",
+  "@driver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "driverProfile": "Driver's profile",
+  "@driverProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "senderProfile": "Sender's profile",
+  "@senderProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsToSend": "Currently you do not have any packages to send",
+  "@noItemsToSend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noItemsToDeliver": "Currently you do not have any packages for delivery",
+  "@noItemsToDeliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allPacks": "All parcels",
+  "@allPacks": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendPack": "Send parcel",
+  "@sendPack": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "anyDate": "Any date",
+  "@anyDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidPhoneNumberFormat": "Incorrect phone number format",
+  "@invalidPhoneNumberFormat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tellAboutYourself": "Tell about yourself",
+  "@tellAboutYourself": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutUserHelperText": "Packedoo community is based on trust. Let other users know about you - what you are doing for living, how often do you trave, what is your preferred transport/vehicle.",
+  "@aboutUserHelperText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newRoute": "New route",
+  "@newRoute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "findParcels": "Find parcels",
+  "@findParcels": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveRoute": "Save route",
+  "@saveRoute": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeSaved": "Route saved",
+  "@routeSaved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeSavedAndAvailableInSidePanel": "Route saved and is now available on side menu",
+  "@routeSavedAndAvailableInSidePanel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routeRemoved": "Route removed",
+  "@routeRemoved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "routes": "Routes",
+  "@routes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "change": "Change",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeRoutes": "Edit routes",
+  "@change": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youDontHaveSavedRoutesYet": "You do not have any saved routes yet",
+  "@youDontHaveSavedRoutesYet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deliver": "Deliver",
+  "@deliver": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveRouteInfoMessage": "Save route to get notifications about new parcels",
+  "@saveRouteInfoMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youWillGetNotificationsOnNewParcelsAlongRoute": "You will get notifications about all new parcels along the route",
+  "@youWillGetNotificationsOnNewParcelsAlongRoute": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
